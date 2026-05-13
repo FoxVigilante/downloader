@@ -2,6 +2,7 @@
 
 - [3e766002-ee9b-485f-9a31-8878f046aca4](./3e766002-ee9b-485f-9a31-8878f046aca4)
 - [Alpha](./Alpha)
+- [Create%2B-6.0.0+Alpha+D](./Create%252B-6.0.0%2BAlpha%2BD)
 - [Create%2B-6.0](./Create%252B-6.0)
 - [D](./D)
 - [GE-Proton10-34.tar](./GE-Proton10-34.tar)
